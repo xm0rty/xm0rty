@@ -11,13 +11,13 @@ I am a passionate CS Student at University of Sherbrooke.
 - French/English.
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,visualstudio,unity,figma,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,clion,vscode,visualstudio,unity,figma,materialui,androidstudio,azure,git,gitlab)](https://skillicons.dev)
 
 ## My Coding Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,mysql,python,java,cs,cpp,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,mysql,py,java,cs,cpp,js,ts)](https://skillicons.dev)
 
-#### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,discordjs,net,nodejs,spring,firebase)](https://skillicons.dev)
+#### Technologies
+[![My Skills](https://skillicons.dev/icons?i=angular,flutter,net,spring,firebase,rabbitmq,linux)](https://skillicons.dev)
 
 ## Currently Exploring
 - Learning Unity and game dev
