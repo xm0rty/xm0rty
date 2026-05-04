@@ -2,7 +2,6 @@
 
 I am a passionate CS Student at University of Sherbrooke.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xm0rty&layout=compact)
 
 ## About Me
 
